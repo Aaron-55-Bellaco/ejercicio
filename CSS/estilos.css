@@ -1,0 +1,15 @@
+div.col-9{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXuehpJGKbvqFfSxCZsv3nkQV4RfrR70hOZQ&s");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#img1{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ32g9x6xsAQpRbqf3XVHb5OcnWHnj_-60nsw&s");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#img2{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSbr4fT4o56MLs7O1WZrht5gnMfKOpyFcig&s");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
